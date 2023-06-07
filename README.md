@@ -1,4 +1,4 @@
-# Learning Transformation to reduce Geometric Shift in Object Detection
+# Learning Transformations to reduce Geometric Shift in Object Detection
 [ [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Vidit_Learning_Transformations_To_Reduce_the_Geometric_Shift_in_Object_Detection_CVPR_2023_paper.pdf) ]
 
 
